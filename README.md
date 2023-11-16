@@ -13,4 +13,4 @@
 ### Extra 
 
 - Crie seu Octocat [aqui](https://myoctocat.com/build-your-octocat/)
-    ![meu octocat](octocat.png "✌")
+    <img src="octocat.png" alt="Meu octocat" style = "heigth: 150px">
